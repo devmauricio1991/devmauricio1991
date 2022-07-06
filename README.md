@@ -1,4 +1,4 @@
-<img align="left" width="100%" alt="about" src="https://github.com/devmauricio1991/devmauricio1991/blob/main/Banner.png?raw=true"/>
+<img align="left" width="100%" alt="about" src="https://github.com/devmauricio1991/devmauricio1991/blob/main/Banner%20novo.png?raw=true"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <img align="right" src="./anime-coding.gif" width="50%" alt="anime coding">
