@@ -3,16 +3,7 @@
 
 <img align="right" src="./anime-coding.gif" width="50%" alt="anime coding">
 <table align="center">
-  <tr>
-    <td>
-      <b>
-        <a href="README.md">🇺🇸 English</a>
-      </b>
-    </td>
-    <td>
-      <a href="readme-br.md">🇧🇷 Português</a>
-    </td>
-  </tr>
+
 </table>
 <ul align="left">
     <li>❤️ Love <strong>Programming</strong> and <strong>Animes</strong>.</li>
@@ -174,25 +165,17 @@
 <img align="right" src="./bugs.gif" height="551px" alt="anime coding">
 <ul type="none">
   <li>
-    <a href="https://github.com/Luk4x/project-collor" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=project-collor&theme=tokyonight&hide_border=true">
+    <a href="LINK DO PROJETO DO GIT" target="_blank">
+      <img align="center" src="FAZER UM BANNER LEGAL PADRÃO PARA TODOS, COPIAR E COLAR TODOS OS PROJETOS ATUAIS">
   </a>
   </li>
-  <li>
-    <a href="https://github.com/Luk4x/devClub-convert-money" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=devClub-convert-money&theme=tokyonight&hide_border=true">
-    </a>
+  
+    <li>
+    <a href="LINK DO PROJETO DO GIT" target="_blank">
+      <img align="center" src="FAZER UM BANNER LEGAL PADRÃO PARA TODOS, COPIAR E COLAR TODOS OS PROJETOS ATUAIS">
+  </a>
   </li>
-  <li>
-     <a href="https://github.com/Luk4x/viaCEP-API" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=viaCEP-API&theme=tokyonight&hide_border=true">
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/Luk4x/netflix-start-page-clone" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luk4x&repo=netflix-start-page-clone&theme=tokyonight&hide_border=true">
-    </a>
-  </li>
+
 </ul>
 
 <br>
@@ -204,31 +187,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Luk4x&show_icons=true&custom_title=Luk4x's%20Github%20Stats&theme=tokyonight&hide_border=true">
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Luk4x&theme=tokyonight&hide_border=true">
 </details>
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
 <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" alt="portfolio">
+    <img src="COLOCAR LINK DO PORTIFOLIO AQUI;logoColor=F7DF1E" alt="portfolio">
 </a>
--->
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
