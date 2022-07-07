@@ -6,10 +6,10 @@
 
 </table>
 <ul align="left">
-    <li>❤️ Love <strong>Programming</strong> and <strong>Animes</strong>.</li>
-    <li>📌 Already studied at <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso Em Video</a>, <a href="https://www.devaria.com.br/" target="_blank">Devaria</a> and <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>.</li>
-    <li>💻 I'm currently studying at <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a> and at <a href="https://www.dio.me/en" target="_blank">Digital Innovation One Inc</a>.</li>
-    <li>🔭 I'm currently a <strong>Front-End</strong> Developer, constantly acquiring new skills and <strong>developing projects</strong>.</li>
+    <li>❤️ Love <strong>Programming</strong>.</li>
+    <li>📌 Already studied at <a href="https://www.alura.com.br/" target="_blank">Alura</a> , <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a> and <a href="https://www.dio.me/" target="_blank">Digital Innovation One</a>.</li>
+    <li>💻 I'm currently studying at <a href="https://www.dio.me/en" target="_blank">Digital Innovation One</a>.</li>
+    <li>🔭 I'm currently a <strong>Back-End</strong> Developer, constantly acquiring new skills and <strong>developing projects</strong>.</li>
 </ul>
 <br>
 
