@@ -1,9 +1,9 @@
 <img align="left" width="100%" alt="about" src="https://github.com/devmauricio1991/devmauricio1991/blob/main/Banner%20novo.png?raw=true"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<img align="right" src="./anime-coding.gif" width="50%" alt="anime coding">
-<table align="center">
 
+<table align="center">
+<strong>About me:</strong>
 </table>
 <ul align="left">
     <li>❤️ Love <strong>Programming</strong>.</li>
@@ -11,8 +11,13 @@
     <li>💻 I'm currently studying at <a href="https://www.dio.me/en" target="_blank">Digital Innovation One</a>.</li>
     <li>🔭 I'm currently a <strong>Back-End</strong> Developer, constantly acquiring new skills and <strong>developing projects</strong>.</li>
 </ul>
+<br><br>
+<strong>Contact me on:</strong>
+<br><br>
+<li><a href="https://www.linkedin.com/in/mauricio-pacheco1991/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></li>
 <br>
-
+<li><strong>:mailbox: ma-uh@hotmail.com</strong></li>
+<br><br>
 <h2 align="center">🛠️ Tools</h2>
 <table>
   <tr>
@@ -130,46 +135,10 @@
     </td>
   </tr>
 </table>
-<br>
+<br><br><br>
 
-<h2 align="center">📩 Contact</h2>
-<img align="left" width="22%" src="./oh-ok.gif" alt="anime coding">
-<br><br>
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/mauricio-pacheco1991/" alt="Linkedin" target="_blank">
-    <img src="https://github.com/devmauricio1991/devmauricio1991/blob/main/icone%20linkedin.png?raw=true" alt="linkedin">
-  </a>
-</p>
-<br><br><br><br>
-
-<h2 align="center">🗄 Featured Projects</h2>
-<img align="right" src="./bugs.gif" height="551px" alt="anime coding">
-<ul type="none">
-  <li>
-    <a href="LINK DO PROJETO DO GIT" target="_blank">
-      <img align="center" src="FAZER UM BANNER LEGAL PADRÃO PARA TODOS, COPIAR E COLAR TODOS OS PROJETOS ATUAIS">
-  </a>
-  </li>
-  
-    <li>
-    <a href="LINK DO PROJETO DO GIT" target="_blank">
-      <img align="center" src="FAZER UM BANNER LEGAL PADRÃO PARA TODOS, COPIAR E COLAR TODOS OS PROJETOS ATUAIS">
-  </a>
-  </li>
-
-</ul>
-
-<br>
-<h2 align="center">
-<details>
-<summary>📈 Analytics</summary>
-<br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmauricio1991_count=8&theme=tokyonight&hide_border=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=devmauricio1991_icons=true&custom_title=devmauricio1991%20Github%20Stats&theme=tokyonight&hide_border=true">
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devmauricio1991=tokyonight&hide_border=true">
-</details>
-  
-<a href="#">
-    <img src="COLOCAR LINK DO PORTIFOLIO AQUI;logoColor=F7DF1E" alt="portfolio">
-</a>
+<div>
+<a href="https://github.com/devmauricio1991">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmauricio1991&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmauricio1991&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
