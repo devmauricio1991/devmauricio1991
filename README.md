@@ -136,11 +136,9 @@
 <img align="left" width="22%" src="./oh-ok.gif" alt="anime coding">
 <br><br>
 <p align="center">
-  <a href="ma-uh@hotmail.com" alt="hotmail" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
-  </a>
+
   <a href="https://www.linkedin.com/in/mauricio-pacheco1991/" alt="Linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+    <img src="https://github.com/devmauricio1991/devmauricio1991/blob/main/icone%20linkedin.png?raw=true" alt="linkedin">
   </a>
 </p>
 <br><br><br><br>
