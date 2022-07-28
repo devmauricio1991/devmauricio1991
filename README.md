@@ -68,15 +68,6 @@
           <pre>ReactJS</pre>
         </b>
       </sub>
-    </td>
-    <td align="center">
-      <img src="https://styled-components.com/logo.png" width="70px;" alt="styled-components icon"/><br>
-      <sub>
-        <b>
-          <pre>styled-c</pre>
-        </b>
-      </sub>
-    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="100px;" alt="Bootstrap icon"/><br>
       <sub>
@@ -93,14 +84,7 @@
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="100px;" alt="Insomnia icon"/><br>
-      <sub>
-        <b>
-          <pre>Insomnia</pre>
-        </b>
-      </sub>
-    </td>
+
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100px;" alt="NodeJS icon"/><br>
       <sub>
