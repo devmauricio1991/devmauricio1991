@@ -68,6 +68,7 @@
           <pre>ReactJS</pre>
         </b>
       </sub>
+     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="100px;" alt="Bootstrap icon"/><br>
       <sub>
@@ -84,7 +85,6 @@
         </b>
       </sub>
     </td>
-
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100px;" alt="NodeJS icon"/><br>
       <sub>
