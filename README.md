@@ -75,15 +75,7 @@
         <b>
           <pre>NodeJS</pre>
         </b>
-      </sub>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="90px;" alt="Axios icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;Axios&ensp;</pre>
-        </b>
-      </sub>
-    </td>
+      </sub>  
   </tr>
 </table>
 <br><br><br>
