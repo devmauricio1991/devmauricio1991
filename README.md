@@ -7,9 +7,9 @@
 </table>
 <ul align="left">
     <li>❤️ Love <strong>Programming</strong>.</li>
-    <li>📌 Already studied at <a href="https://www.alura.com.br/" target="_blank">Alura</a> , <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a> and <a href="https://www.dio.me/" target="_blank">Digital Innovation One</a>.</li>
-    <li>💻 I'm currently studying at <a href="https://www.dio.me/en" target="_blank">Digital Innovation One</a>.</li>
-    <li>🔭 I'm currently a <strong>Back-End</strong> Developer, constantly acquiring new skills and <strong>developing projects</strong>.</li>
+    <li>📌 Already studied at <a href="https://www.alura.com.br/" target="_blank">Alura</a> , <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a> and <a href="https://www.lewagon.com/" target="_blank">Le Wagon</a>.</li>
+    <li>💻 I'm currently studying at <a href="https://www.lewagon.com/" target="_blank">Le Wagon</a>.</li>
+    <li>🔭 I'm currently a <strong>Fullstack</strong> Developer, constantly acquiring new skills and <strong>developing projects</strong>.</li>
 </ul>
 <br><br>
 <strong>Contact me on:</strong>
@@ -62,26 +62,10 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100px;" alt="ReactJS icon"/><br>
-      <sub>
-        <b>
-          <pre>ReactJS</pre>
-        </b>
-      </sub>
-     </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="100px;" alt="Bootstrap icon"/><br>
       <sub>
         <b>
           <pre>Bootstrap</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="100px;" alt="JQuery icon"/><br>
-      <sub>
-        <b>
-          <pre>JQuery</pre>
         </b>
       </sub>
     </td>
@@ -92,23 +76,6 @@
           <pre>NodeJS</pre>
         </b>
       </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177162603-b078ec0b-5097-4067-9e04-f2e260e298a8.png" width="100px;" alt="Yarn/npm icon"/><br>
-      <sub>
-        <b>
-          <pre>Yarn/npm</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="100px;" alt="ExpressJS icon"/><br>
-      <sub>
-        <b>
-          <pre>ExpressJS</pre>
-        </b>
-      </sub>
-    </td>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="90px;" alt="Axios icon"/><br>
       <sub>
